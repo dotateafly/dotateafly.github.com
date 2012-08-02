@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Hello world!]]></title>
+  <link href="http://yoursite.com/atom.xml" rel="self"/>
+  <link href="http://yoursite.com/"/>
+  <updated>2012-08-02T10:31:18+08:00</updated>
+  <id>http://yoursite.com/</id>
+  <author>
+    <name><![CDATA[zhangshenghua]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[hello wolrd]]></title>
+    <link href="http://yoursite.com/blog/2012/08/02/hello-wolrd/"/>
+    <updated>2012-08-02T10:30:00+08:00</updated>
+    <id>http://yoursite.com/blog/2012/08/02/hello-wolrd</id>
+    <content type="html"><![CDATA[<h2>大标题</h2>
+
+<hr />
+
+<p><strong>你好</strong>我是张升华!</p>
+]]></content>
+  </entry>
+  
+</feed>
